@@ -1,2 +1,2 @@
 # privateBlockchain
-This simple blockchain implementation written in Javascript
+This is simple blockchain implementation written in Javascript
